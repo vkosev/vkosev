@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as a Java Developer at [EvlutionIT LTD](https://evolutionit.bg/).
+Currently working as a Java Developer at [TinQin](https://www.tinqin.com/en/home).
 
 Like to play around with Golang.
 
